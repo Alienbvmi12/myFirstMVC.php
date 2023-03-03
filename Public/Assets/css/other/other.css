@@ -1,0 +1,14 @@
+.aha a{
+	float : right;
+	margin : 2px;
+}
+
+.wider{
+	width: 154.01px;
+}
+
+@media only screen and (max-width: 1199px){
+	.wider{
+		width: 194px;
+	}
+}
